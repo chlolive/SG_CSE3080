@@ -1,0 +1,5 @@
+﻿  hw2.c
+C:\Users\박수빈\Desktop\자료구조_소정민교수님\HW2\hw2\hw2\hw2.c(34,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\박수빈\Desktop\자료구조_소정민교수님\HW2\hw2\hw2\hw2.c(44,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\박수빈\Desktop\자료구조_소정민교수님\HW2\hw2\hw2\hw2.c(48,27): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  hw2.vcxproj -> C:\Users\박수빈\Desktop\자료구조_소정민교수님\HW2\hw2\x64\Debug\hw2.exe

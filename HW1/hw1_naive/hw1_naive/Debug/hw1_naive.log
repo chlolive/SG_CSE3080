@@ -1,0 +1,5 @@
+﻿  hw1_naive.c
+C:\Users\박수빈\Desktop\자료구조_소정민교수님\hw1_naive\hw1_naive\hw1_naive.c(11,22): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\박수빈\Desktop\자료구조_소정민교수님\hw1_naive\hw1_naive\hw1_naive.c(12,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\박수빈\Desktop\자료구조_소정민교수님\hw1_naive\hw1_naive\hw1_naive.c(27,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  hw1_naive.vcxproj -> C:\Users\박수빈\Desktop\자료구조_소정민교수님\hw1_naive\Debug\hw1_naive.exe
